@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+venv_demo/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Copy folders (optional – if not needed)
+* - Copy/
+
+# OS / editor
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
