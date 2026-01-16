@@ -16,7 +16,10 @@ This project implements a ransomware defense system using **Federated Learning (
 - Streamlit / Flask (for demo)
 
 ## Demo
-The system was demonstrated by simulating ransomware attacks using executable files and showcasing detection and mitigation in real time.
+The system was demonstrated by simulating ransomware attacks using executable files and showcasing detection and mitigation in real time.The `.exe` files used to simulate ransomware attacks are **not included in the GitHub repository** due to their size.
+
+You can download them here: [Demo Executables ZIP](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
 
 ## Disclaimer
-The executables provided are strictly for educational and demonstration purposes only.
+The executables provided are strictly for educational purpose only.
+
