@@ -1,1 +1,43 @@
+# Python virtual environments
+venv/
+venv_demo/
+RADAR_FINAL/venv_demo/
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+.env/
+*.log
+*.sqlite3
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
+
+# Runtime generated data
+RADAR_FINAL/integrated_data/
+RADAR_FINAL/data/logs/
+RADAR_FINAL/data/reports/
+
+# Generated mitigation outputs
+RADAR_FINAL/Stage3_Mitigate/data/
+
+# OS / temp
+*.tmp
+
+# === Runtime / Generated Data ===
+radar_x/RADAR_FINAL/integrated_data/
+radar_x/RADAR_FINAL/Stage3_Mitigate/data/
+radar_x/RADAR_FINAL/shared_status/
+radar_x/RADAR_FINAL/test_files/
+
+# === Federated Learning Artifacts ===
+fl_round_*.json
+*.dat
+*.csv
+*.log
